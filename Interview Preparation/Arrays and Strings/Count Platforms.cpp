@@ -3,7 +3,7 @@ int platformsNeeded(int arr1[], int arr2[], int n) {
     /*
      * Don't write main().
      * Don't read input, it is passed as function argument.
-     * Don't print anything just return integer value.
+     * Don't print anyt
      */
     int count=1;
     int m,temp;
